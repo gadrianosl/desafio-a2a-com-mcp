@@ -74,7 +74,7 @@ Isso rejeita uma pausa válida, que não possui structuredContent. A função `c
 Última execução com os dois processos recém-iniciados, sem alterações em `dados/`, `exemplos/` ou `validador/`:
 
 ```text
-trace-id desta execucao: 2f1ffa66e33d219996c609dd8ae0f77a
+trace-id desta execucao: de3ace64390da08681bb3b5a381ddd27
 procure esse valor no stderr do servidor MCP para conferir a propagacao do traceparent.
 
 PASS 01 tools/list traz as tres tools
